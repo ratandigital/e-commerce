@@ -9,11 +9,11 @@ cloudinary.config({
     api_secret: "sR5IK9L-S4mmuGMyR5yH8uSTK04"
 });
 
-conts config = {
-  api: {
-    bodyParser: false,
-  },
-};
+// conts config = {
+//   api: {
+//     bodyParser: false,
+//   },
+// };
 
 export async function POST (req, res) {
     console.log('p')
