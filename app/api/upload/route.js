@@ -6,7 +6,7 @@ import { IncomingForm } from 'formidable';
 cloudinary.config({
     cloud_name: 'de1ccm1ga',
     api_key: "152337296883443",
-    api_secret: "sR5IK9L-S4mmuGMyR5yH8uSTK04",
+    api_secret: "sR5IK9L-S4mmuGMyR5yH8uSTK04"
 });
 
 conts config = {
