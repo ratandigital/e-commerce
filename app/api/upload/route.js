@@ -9,7 +9,7 @@ cloudinary.config({
     api_secret: "sR5IK9L-S4mmuGMyR5yH8uSTK04",
 });
 
-export config = {
+conts config = {
   api: {
     bodyParser: false,
   },
